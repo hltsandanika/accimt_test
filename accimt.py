@@ -1,2 +1,2 @@
-print("Hello...My name is Tharushi")/n
+print("Hello...My name is Tharushi")
 print("bye")
